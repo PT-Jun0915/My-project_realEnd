@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Weapon
+  - Melee
+  - Item
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -13,11 +18,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Floor
+  - Player
+  - PlayerBullet
+  - BulletCase
+  - Wall
   - 
   - 
   - 
